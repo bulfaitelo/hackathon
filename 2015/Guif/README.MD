@@ -1,6 +1,5 @@
 #GUIF 
 
-#SOBRE:
 
 Existem muitas instituições de ensino que oferecem cursos de baixa qualidade e realizam grandes propagandas alegando que seu ensino é o melhor e as pessoas acreditam porque na maioria das vezes não há nenhum parâmetro de comparação ou a pessoa não conhece ninguém que já cursou naquela instituição.
 
